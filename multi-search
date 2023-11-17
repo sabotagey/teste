@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html class="dark" lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DBFTools | Carding Tools</title>
+    <script type="module" crossorigin src="/assets/index-3a35e4bd.js"></script>
+    <link rel="stylesheet" href="/assets/index-d51c15ed.css">
+  </head>
+  <body class="bg-[#171941] text-white">
+    <div id="root"></div>
+    
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"8279a5aadc161174","r":1,"version":"2023.10.0","token":"937433d204924154897e647c03d72d43"}' crossorigin="anonymous"></script>
+</body>
+</html>
